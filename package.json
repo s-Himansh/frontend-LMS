@@ -6,7 +6,6 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "@zegocloud/zego-uikit-prebuilt": "^1.8.15",
     "axios": "^1.6.3",
     "bcryptjs": "^2.4.3",
     "bootstrap": "^5.3.2",
@@ -24,7 +23,6 @@
     "react-fancy-circular-carousel": "^1.0.8",
     "react-router-dom": "^6.21.1",
     "react-scripts": "5.0.1",
-    "simplewebrtc": "^3.0.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
