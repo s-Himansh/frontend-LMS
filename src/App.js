@@ -35,8 +35,6 @@ function App() {
               <Route exact path='/subject/:subjectid' element={<Course />} />
               <Route exact path='/class' element={<Class />} />
               <Route exact path='/subclass' element={<SubClass />} />
-              {/* <Route exact path='/meetroom' element={<VideoApp />  }/>
-              <Route exact path='/meetroom/:meetId' element={<MeetPage />} /> */}
               <Route exact path='/classmates' element={<ClassMates />} />
               <Route exact path='/pricing' element={<Pricing />} />
           </Routes>
