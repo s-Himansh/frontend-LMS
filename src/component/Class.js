@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import EnterForm from '../screens/EnterForm';
 
 export default function Class() {
    const subjectCode = localStorage.getItem('subjectCode');

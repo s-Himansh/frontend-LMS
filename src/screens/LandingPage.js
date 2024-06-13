@@ -1,10 +1,8 @@
 import React from 'react';
 import NavBar from './NavBar';
-import { Link } from 'react-router-dom';
 // import './landingPage.css';
 import CircleCompo from '../component/circle/CircleCompo';
 
-import FancyCarousel from 'react-fancy-circular-carousel';
 import 'react-fancy-circular-carousel/FancyCarousel.css';
 
 export default function LandingPage() {
