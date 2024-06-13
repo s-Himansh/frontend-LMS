@@ -13,8 +13,6 @@ import Loading from './component/Loading';
 import Course from './component/Course';
 import Class from './component/Class';
 import SubClass from './component/SubClass';
-import VideoApp from './pages/home/VideoApp';
-import MeetPage from './pages/Meet/MeetPage';
 import ClassMates from './component/ClassMates';
 import Pricing from './component/Pricing';
 
